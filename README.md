@@ -10,23 +10,23 @@ Richardson, TX · Relocating to Los Angeles, CA (Summer 2027) · Open to remote 
 
 ## About me
 
-I am a technical pre-sales specialist in the B2B SaaS sector, working in the area that lies between the sales and product teams. At AppFolio I conduct technical discovery sessions with property managers and give demonstrations to AEs and SEs. In my personal time I develop the kind of software that I discuss with my customers, such as an AI-to-Salesforce connector, an ROI calculator, and an AI-driven business app.
+I am a technical pre-sales specialist in B2B SaaS, working between the sales and product teams. At AppFolio I run technical discovery with property managers and support demos for AEs and SEs. On my own time, I build the kind of software I discuss with customers: an AI-to-Salesforce connector, an ROI calculator, and an AI-driven business app.
 
 I am seeking Solutions Consultant, Sales Engineer, and Technical Account Manager positions.
 
 ## Results
 
-- In my first quarter at AppFolio I achieved **more than 200% of my quota**, holding 1,200 named SMB property-management accounts and having an 80% meeting show rate.
+- **More than 200% of quota** in my first quarter at AppFolio, with 1,200 named SMB property-management accounts and an 80% meeting show rate
 - Supported discovery and demos on **5 closed-won deals** for AEs and SEs
 - **$2M+ in 12 months** at 139% average quarterly attainment in a full-cycle sales role
 - Built AI prospecting and account-research workflows, then trained managers and BDRs to use them
 
 ## Why I'd be a good fit for a technical role
 
-- **I earn a living by carrying out discovery work;** this involves mapping out a customer's workflows, the software they are currently using (such as Buildium, Rent Manager, and Yardi), and their pain points, after which I pass on my notes to inform the demo.
-- **I understand both the buyer and the builder;** I've handled the entire process from negotiation through to delivery and have also written working code in Python, JavaScript, and REST APIs as well as OAuth.
-- **I turn ideas into practical tools.** The projects listed below are live, have been tested, and are documented, not merely presented as slides.
-- **I apply AI to actual workflows;** when designing and launching workflows I use Claude and the Model Context Protocol (MCP).
+- **I run discovery for a living.** I map a customer's workflows, current software (such as Buildium, Rent Manager, and Yardi), and pain points, then pass my notes on to shape the demo.
+- **I understand both the buyer and the builder.** I've handled the full process from negotiation through delivery, and I write working code in Python, JavaScript, and REST APIs, including OAuth.
+- **I turn ideas into practical tools.** The projects below are live, tested, and documented, not just slides.
+- **I apply AI to real workflows.** I use Claude and the Model Context Protocol (MCP) to design and launch them.
 
 ---
 
@@ -34,7 +34,7 @@ I am seeking Solutions Consultant, Sales Engineer, and Technical Account Manager
 
 ### Relay: ask Claude about your Salesforce accounts in plain English
 
-It is an MCP server which enables a sales representative to ask Claude questions such as "Summarize this account before my call" or "What's in my open pipeline?" The server provides five tools (four of which are read-only and one of which is a write tool that is closely restricted) based on the Salesforce REST API, includes injection-safe queries, has a write guardrail that applies only to demo accounts, and comes with 62 automated tests; all of the data is fictional.
+An MCP server that lets a sales rep ask Claude questions such as "Summarize this account before my call" or "What's in my open pipeline?" It provides five tools (four read-only and one tightly restricted write tool) on the Salesforce REST API, with injection-safe queries, a write guardrail limited to demo accounts, and 62 automated tests. All data is fictional.
 
 ```mermaid
 flowchart LR
@@ -50,7 +50,7 @@ flowchart LR
 
 ### Property ROI Calculator: a discovery-call tool for property managers
 
-A tool which enables a property management company to see what the switch to a new platform might yield and what level of belief they would need in order for it to be worthwhile. The output focuses on the break-even point, distinguishes between actual cash savings and the time that would be freed up by the change, and either notes where each assumption comes from or states that it is my own judgment.
+A tool that shows a property management company what switching to a new platform might return, and how much they would need to believe for it to be worthwhile. It focuses on the break-even point, separates real cash savings from freed-up staff time, and either cites the source of each assumption or marks it as my own judgment.
 
 ![Property ROI Calculator results](https://raw.githubusercontent.com/SahilH-spec/pm_ROI_calculator/HEAD/docs/screenshots/results-top.png)
 
@@ -60,7 +60,7 @@ A tool which enables a property management company to see what the switch to a n
 
 ### Arbitrage Copilot: an AI-powered app for running an Amazon resale business
 
-I created an app in order to run my own Amazon arbitrage business; each night a Claude agent researches products, evaluates them using specific criteria, and the app keeps record of the inventory, Buy Box position, and profit. The demo features fictional data.
+An app I built to run my own Amazon arbitrage business. Each night a Claude agent researches products and scores them against specific criteria, and the app tracks inventory, Buy Box position, and profit. The demo uses fictional data.
 
 ![Arbitrage Copilot dashboard (fictional demo data)](https://raw.githubusercontent.com/SahilH-spec/arbitrage-copilot/HEAD/docs/screenshots/dashboard.png)
 
@@ -71,7 +71,7 @@ I created an app in order to run my own Amazon arbitrage business; each night a 
 
 ### Also built: Khushu
 
-This is an Islamic companion app (including features such as prayer times, a Quran reader, duas, and dhikr) which uses a Raspberry Pi to play the adhan at home; it's a personal project that I use in my own household.
+An Islamic companion app (prayer times, a Quran reader, duas, and dhikr) that uses a Raspberry Pi to play the adhan at home. A personal project I use in my own household.
 [Live demo](https://sahilh-spec.github.io/khushu-app/) · [View the project](https://github.com/SahilH-spec/khushu-app)
 
 ---
@@ -93,4 +93,4 @@ This is an Islamic companion app (including features such as prayer times, a Qur
 
 ## Let's connect
 
-If you're seeking someone to fill a technical pre-sales position and would like to chat, you can get in touch with me via [LinkedIn](https://www.linkedin.com/in/sahilhkhan) or by emailing [sahiltcg@gmail.com](mailto:sahiltcg@gmail.com).
+If you're hiring for a technical pre-sales role and would like to chat, reach me on [LinkedIn](https://www.linkedin.com/in/sahilhkhan) or at [sahiltcg@gmail.com](mailto:sahiltcg@gmail.com).
