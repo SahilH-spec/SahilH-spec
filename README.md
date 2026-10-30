@@ -1,18 +1,16 @@
 # Sahil Khan
 
-**Technical Pre-Sales | Solutions Consulting | B2B SaaS and AI Automation**
+**Account Executive | B2B SaaS and AI | Technical Discovery and AI Workflows**
 
 Richardson, TX · Relocating to Los Angeles, CA (Summer 2027) · Open to remote or hybrid
 
-[LinkedIn](https://www.linkedin.com/in/sahilhkhan) · [Email](mailto:sahiltcg@gmail.com) · [Resume (Google Doc)](https://docs.google.com/document/d/13at0mjh91jCS1trQhPJF0Zg5xHXhZ5kc0nwi7AQnXqo)
+[LinkedIn](https://www.linkedin.com/in/sahilhkhan) · [Email](mailto:sahiltcg@gmail.com) · [Resume (Google Doc)](https://docs.google.com/document/d/1-8WJOUODRzzBByU-bqtf9kb_tByO3z1oe3i8IapKz38/edit?usp=sharing)
 
 ---
 
 ## About me
 
-I am a technical pre-sales specialist in B2B SaaS, working between the sales and product teams. At AppFolio I run technical discovery with property managers and support demos for AEs and SEs. On my own time, I build the kind of software I discuss with customers: an AI-to-Salesforce connector, an ROI calculator, and an AI-driven business app.
-
-I am seeking Solutions Consultant, Sales Engineer, and Technical Account Manager positions.
+B2B SaaS and consultative sales professional with a closing record across three roles: $2M+ in 12 months at 139% average quarterly attainment, ~$100K at 100%+ of quota all six months, and 200%+ of quota in my first quarter across 1,200 named SMB accounts at AppFolio. I run discovery-led, ROI-based sales cycles and build the AI workflows and tools (Python, Claude API, MCP, Salesforce API) that speed up the pipeline. Ran multiple Claude enablement sessions during AppFolio’s Claude adoption for BDR and BDR management team. Targeting SMB and Commercial Account Executive roles at technical software companies.
 
 ## Results
 
@@ -20,6 +18,7 @@ I am seeking Solutions Consultant, Sales Engineer, and Technical Account Manager
 - Supported discovery and demos on **5 closed-won deals** for AEs and SEs
 - **$2M+ in 12 months** at 139% average quarterly attainment in a full-cycle sales role
 - Built AI prospecting and account-research workflows, then trained managers and BDRs to use them
+- Ran multiple Claude enablement sessions for the BDR and BDR management team during AppFolio's Claude adoption. 
 
 ## Why I'd be a good fit for a technical role
 
