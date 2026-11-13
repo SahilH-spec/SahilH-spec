@@ -1,31 +1,32 @@
 # Sahil Khan
 
-**Account Executive | B2B SaaS and AI | Technical Discovery and AI Workflows**
+**Account Executive | B2B SaaS and AI | Discovery, Sales Enablement, and AI Workflows**
 
-Richardson, TX · Relocating to Los Angeles, CA (Summer 2027) · Open to remote or hybrid
+Richardson, TX (Dallas–Fort Worth) · Open to remote
 
-[LinkedIn](https://www.linkedin.com/in/sahilhkhan) · [Email](mailto:sahiltcg@gmail.com) · [Resume (Google Doc)](https://docs.google.com/document/d/1-8WJOUODRzzBByU-bqtf9kb_tByO3z1oe3i8IapKz38/edit?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/sahilhkhan) · [Email](mailto:sahiltcg@gmail.com)
 
 ---
 
 ## About me
 
-B2B SaaS and consultative sales professional with a closing record across three roles: $2M+ in 12 months at 139% average quarterly attainment, ~$100K at 100%+ of quota all six months, and 200%+ of quota in my first quarter across 1,200 named SMB accounts at AppFolio. I run discovery-led, ROI-based sales cycles and build the AI workflows and tools (Python, Claude API, MCP, Salesforce API) that speed up the pipeline. Ran multiple Claude enablement sessions during AppFolio’s Claude adoption for BDR and BDR management team. Targeting SMB and Commercial Account Executive roles at technical software companies.
+Quota-carrying, full-cycle closer now generating B2B SaaS pipeline at AppFolio. I run discovery-led, ROI-based sales cycles, and I build the AI workflows and tools (Python, Claude API, MCP, Salesforce API) that make sales teams faster. I also lead AI enablement for AppFolio's BDR org. I'm looking for SMB and Commercial Account Executive roles, and technical pre-sales roles, at software and AI companies.
 
 ## Results
 
-- **More than 200% of quota** in my first quarter at AppFolio, with 1,200 named SMB property-management accounts and an 80% meeting show rate
-- Supported discovery and demos on **5 closed-won deals** for AEs and SEs
-- **$2M+ in 12 months** at 139% average quarterly attainment in a full-cycle sales role
-- Built AI prospecting and account-research workflows, then trained managers and BDRs to use them
-- Ran multiple Claude enablement sessions for the BDR and BDR management team during AppFolio's Claude adoption. 
+- **$2M+ closed in 12 months** at 139% average quarterly attainment in a full-cycle sales role
+- **~$100K in new business** at 100%+ of quota every month (6 for 6) in a full-cycle role
+- **200%+ of quota** in my first quarter as a BDR at AppFolio, working outbound and inbound across a 1,300-account SMB territory, with an 80% meeting show rate
+- Worked discovery and demos with AEs and Sales Engineers on **10 closed-won deals**
+- **Lead AI enablement for the BDR org:** rolled out Claude to the Texas team, presented to 55 BDRs and 6 managers up to the BDR Director, and run recurring office hours on prompting, account research, and call prep
+- Built AI prospecting and account-research workflows that surface accounts with buying signals and personalize outreach
 
-## Why I'd be a good fit for a technical role
+## What I bring
 
 - **I run discovery for a living.** I map a customer's workflows, current software (such as Buildium, Rent Manager, and Yardi), and pain points, then pass my notes on to shape the demo.
-- **I understand both the buyer and the builder.** I've handled the full process from negotiation through delivery, and I write working code in Python, JavaScript, and REST APIs, including OAuth.
+- **I understand both the buyer and the builder.** I've run the full sales cycle from discovery through negotiation and close, and I write working code in Python, JavaScript, and REST APIs, including OAuth.
 - **I turn ideas into practical tools.** The projects below are live, tested, and documented, not just slides.
-- **I apply AI to real workflows.** I use Claude and the Model Context Protocol (MCP) to design and launch them.
+- **I apply AI to real workflows.** I use Claude and the Model Context Protocol (MCP) to design and launch them, then teach teams to use them.
 
 ---
 
@@ -79,10 +80,11 @@ An Islamic companion app (prayer times, a Quran reader, duas, and dhikr) that us
 
 | Area | Tools |
 |---|---|
+| Sales | Full-cycle selling, outbound prospecting, inbound leads, pipeline generation, consultative discovery, demos, negotiation, ROI selling, MEDDPICC/MEDDIC, Challenger |
 | Technical | Python, SQL, JavaScript/React, REST APIs, OAuth 2.0, Git/GitHub, Linux, pytest, HTML/CSS |
 | AI and automation | Claude API, Model Context Protocol (MCP), prompt engineering, AI workflow design (Claude, Gemini) |
-| Pre-sales | Technical discovery, demo support, requirements mapping, ROI modeling, MEDDICC, Challenger Sale |
-| Tools and domain | Salesforce, Gong, Sales Navigator, Google Workspace; SaaS, PropTech, property management software |
+| Pre-sales and enablement | Technical discovery, demo support, requirements mapping, ROI modeling, sales enablement and training |
+| Tools and domain | Salesforce, Gong, ZoomInfo, Zoom, Actively AI, Sales Navigator, Google Workspace; SaaS, SalesTech, RevTech, PropTech |
 
 ## Education and certifications
 
@@ -92,4 +94,4 @@ An Islamic companion app (prayer times, a Quran reader, duas, and dhikr) that us
 
 ## Let's connect
 
-If you're hiring for a technical pre-sales role and would like to chat, reach me on [LinkedIn](https://www.linkedin.com/in/sahilhkhan) or at [sahiltcg@gmail.com](mailto:sahiltcg@gmail.com).
+If you're hiring for an Account Executive or technical pre-sales role and would like to chat, reach me on [LinkedIn](https://www.linkedin.com/in/sahilhkhan) or at [sahiltcg@gmail.com](mailto:sahiltcg@gmail.com).
